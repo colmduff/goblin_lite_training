@@ -6,9 +6,6 @@ __pycache__/
 # Jupyter cache
 .jupyter_cache
 
-# Notebooks (track as .py via jupytext instead)
-*.ipynb
-
 # C extensions
 *.so
 
